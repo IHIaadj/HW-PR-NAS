@@ -48,39 +48,18 @@ python test.py
 
 ## Results 
 
-1. Results on CIFAR-10 (FPGA - Pixel3 - EdgeGPU)
-<div class="row" style="display: flex;">
-  <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-    <img src="Figures/pareto_fpga.png" alt="Snow" style="width:100%">
-  </div>
-  <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-    <img src="Figures/pareto_pixel3.png" alt="Forest" style="width:100%">
-  </div>
-  <div class="column"  style="float: left; width: 33.33%; padding: 5px;">
-    <img src="Figures/edgegpu_cifar10.png" alt="Mountains" style="width:100%">
-  </div>
-</div>
 
-2. Results on CIFAR-100 
-<div class="row" style="display: flex;">
-  <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-    <img src="Figures/pareto_cifar100_fpga.png" alt="Snow" style="width:100%">
-  </div>
-  <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-    <img src="Figures/pareto_cifar100_pixel3.png" alt="Forest" style="width:100%">
-  </div>
-  <div class="column"  style="float: left; width: 33.33%; padding: 5px;">
-    <img src="Figures/pareto_cifar100_gpu2.png" alt="Mountains" style="width:100%">
-  </div>
-</div>
+1. Results on CIFAR-10 (FPGA - Pixel3 - EdgeGPU)
+
+ | <img src="Figures/pareto_fpga.png" alt="Snow" width="300"> | <img src="Figures/pareto_pixel3.png" alt="Forest" width="300"> | <img src="Figures/edgegpu_cifar10.png" alt="Mountains" width="300"> |
+ 
+ 2. Results on CIFAR-100 
+
+ | <img src="Figures/pareto_cifar100_fpga.png" alt="Snow" width="300"> | <img src="Figures/pareto_cifar100_pixel3.png" alt="Forest" width="300"> | <img src="Figures/pareto_cifar100_gpu2.png" alt="Mountains" width="300"> |
 
 3. Results with three objectives (adding energy consumption) 
 
-<div class="row" style="display: flex;">
-  <div class="column" style="float: left; width: 50%; padding: 5px;">
-    <img src="Figures/3d_cifar100_fpga.png" alt="Snow" style="width:100%">
-  </div>
-  <div class="column" style="float: left; width: 50%; padding: 5px;">
-    <img src="Figures/3d_cifar100_edgegpu.png" alt="Forest" style="width:100%">
-  </div>
-</div>
+ | <img src="Figures/3d_cifar100_fpga.png" alt="Snow" width="300"> | <img src="Figures/3d_cifar100_edgegpu.png" alt="Forest" width="300"> |
+
+
+ 
