@@ -5,7 +5,7 @@ Neural Architecture Search (NAS) is an extremely time-consuming process because 
 
 **HW-PR-NAS**, Hardware-aware Pareto Rank Neural Architecture Search, present a single surrogate model trained to Pareto rank the architectures based on Accuracy, Latency and energy consumption. 
 
-<img src="Figures/motivation.pdf" />
+<img src="Figures/motivation.png">
 <p align="center">Overview of HW-PR-NAS Usage & Performance</p>
 
 ## Project Structure
@@ -56,7 +56,7 @@ python test.py
 
 1. Results on CIFAR-10 on multiple hardware platforms 
 
-<img src="Figures/results.pdf" alt="Snow" width="300">
+<img src="Figures/cifar10.png">
  
  
 
